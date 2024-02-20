@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammed<br>👀 I’m interested in web development and devops<br>🌱 I’m currently learning c c++ javascript, problem solving<br>💞️ I’m looking to collaborate on Backend and devops projects<br> 📫 How to reach me @simoxhjjm
+👋 Hi, I’m Mohammed<br>👀 I’m interested in web development and devops<br>🌱 I’m currently learning c c++ javascript, problem solving<br>💞️ I’m looking to collaborate on Backend and devops projects<br> 📫 How to reach me @melhajjam
 
 
 ## 🌐 Socials:
