@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Mohammed<br>👀 I’m interested in web development and devops<br>🌱 I’m currently learning c c++ javascript, problem solving<br>💞️ I’m looking to collaborate on Backend and devops projects<br> 📫 How to reach me @melhajjam
 
-
+[![melhajja's 42 stats](https://badge.mediaplus.ma/binary/melhajja)](https://github.com/oakoudad/badge42)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/simoxhjjm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simoxhjjm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simoxhjjm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/simoxhjjm) 
 
