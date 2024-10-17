@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammed<br>👀 I’m interested in web development and devops<br>🌱 I’m currently learning c c++ javascript, problem solving<br>💞️ I’m looking to collaborate on Backend and devops projects<br> 📫 How to reach me @melhajjam
+<!--👋 Hi, I’m Mohammed<br>👀 I’m interested in web development and devops<br>🌱 I’m currently learning c c++ javascript, problem solving<br>💞️ I’m looking to collaborate on Backend and devops projects<br> 📫 How to reach me @melhajjam -->
+👋 Hi, I'm Mohammed Elhajjam!
+
+🎓 I'm a software engineering student at 1337 Coding School, part of the 42 Network.
+
+💻 I have a keen interest in backend development and DevOps.
+
+🌱 Currently, I'm expanding my skills and knowledge in these areas to build robust and scalable applications.
+
+🔗 Let's connect and collaborate on exciting projects!
 
 [![melhajja's 42 stats](https://badge.mediaplus.ma/binary/melhajja)](https://github.com/oakoudad/badge42)
 ## 🌐 Socials:
